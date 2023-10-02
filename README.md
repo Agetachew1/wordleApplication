@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Project 2 - *WordleApplication*
 
 Submitted by: **Abenezer Getachew**
@@ -26,12 +25,14 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-
+<div>
     <a href="https://www.loom.com/share/9a16919b261147329c218c3bd05b0b29">
+      <p>Video Message: Exploring Ideas and Challenges - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/9a16919b261147329c218c3bd05b0b29">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9a16919b261147329c218c3bd05b0b29-with-play.gif">
     </a>
+  </div>
 
 ## Notes
 
